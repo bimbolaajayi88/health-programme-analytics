@@ -1,1 +1,9 @@
-
+enrolment_date,beneficiary_id,surname,first_name,age,location,phone_number,recipient_type,payout_method,initial_payment_flag,initial_payment_date,payment_2_flag,payment_2_date,payment_3_flag,payment_3_date,payment_4_flag,payment_4_date
+2013-04-29,52000,ILIYA,HAUWA,20,BAMUSHI,8125178680,next of kin,cashier payout,Yes,2013-04-29,Yes,2013-05-07,Yes,2013-06-08,Yes,2013-09-03
+2013-04-29,52003,MUHAMMAD,HUSSAINA,30,SHETUGO,7056153902,next of kin,cashier payout,Yes,2013-04-29,Yes,2013-05-28,Yes,2013-06-27,No,
+2013-04-29,52004,YAKUBU,RAHILA,15,ANGWAN GADE EXT,,beneficiary,cashier payout,Yes,2013-04-29,Yes,2013-05-28,No,,Yes,2013-07-17
+2013-04-30,52018,ADETUNJI,YETUNDE,26,BESIDE PRISON,8105144560,beneficiary,sms mobile money,Yes,2013-04-30,No,,No,,No,
+2013-04-30,52028,OBAYOMI,EMILY,38,EAGLE HOUSE PRIMARY,8178163933,beneficiary,sms mobile money,Yes,2013-04-30,Yes,2013-05-30,Yes,2013-06-27,Yes,2013-08-28
+2013-04-30,52033,OKORO,FLORENCE,39,PASALI BEHIND DEEPER LIFE,8102672607,beneficiary,cashier payout,Yes,2013-04-30,Yes,2013-05-09,Yes,2013-05-16,Yes,2013-06-01
+2013-04-30,52038,AKPAN,RITA,23,NUWALEGE AIRPORT RD,8081493021,beneficiary,cashier payout,Yes,2013-04-30,No,,No,,No,
+2013-04-30,52049,AIYEDERO,MARY,27,ANGWAN GADE OLD HOSP,7039006034,beneficiary,cashier payout,Yes,2013-04-30,Yes,2013-05-16,Yes,2013-05-21,Yes,2013-05-28
