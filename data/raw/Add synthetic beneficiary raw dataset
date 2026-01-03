@@ -1,2 +1,8 @@
 scripts/clean_transform.py
+# Basic data quality checks
+missing_phones = df["phone_number"].isna().sum()
+missing_ages = df["age"].isna().sum()
+
+print(f"Missing phone numbers: {missing_phones}")
+print(f"Missing ages: {missing_ages}")
 
