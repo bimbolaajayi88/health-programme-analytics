@@ -1,1 +1,6 @@
 data/raw/.gitkeep
+data/processed/.gitkeep
+scripts/.gitkeep
+notebooks/.gitkeep
+dashboards/powerbi_screenshots/.gitkeep
+diagrams/.gitkeep
