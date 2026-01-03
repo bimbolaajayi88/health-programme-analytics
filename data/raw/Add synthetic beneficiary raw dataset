@@ -6,3 +6,4 @@ missing_ages = df["age"].isna().sum()
 print(f"Missing phone numbers: {missing_phones}")
 print(f"Missing ages: {missing_ages}")
 
+Add basic data quality checks
